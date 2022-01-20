@@ -1,0 +1,11 @@
+
+	* Variables: las variables son como recipientes en los que guardamos cosas que después vamos a volver a necesitar o que usamos muy seguido. Cada variable es como una cajita en la que podemos guardar cosas distintas, a cada cajita le ponemos un nombre, como si le pusiéramos una etiqueta para saber qué estamos guardando y no olvidarnos cuando necesitemos las cosas.
+
+	* Strings: podemos hacer que cualquier cosa que querramos escribir sea un string escribiéndola entre comillas, en los strings escribimos lo que queremos, podemos usar estas comillas "" o estas ''.
+
+	* Funciones (argumentos, `return`): las funciones son cosas que queremos hacer, pero para hacer estas cosas necesitamos de otras, por ejemplo, si quiero cocinar, necesito ingredientes, pasos a seguir, etc. En el caso de las funciones, para que podamos usarlas necesitamos argumentos, que son como los ingredientes de la receta, y para que lleguemos al resultado que queremos alcanzar y lo podamos ver, necesitamos poner return e indicar qué es esto que queremos lograr.
+
+	* Declaraciones `if`: las declaraciones con if, las usamos cuando queremos que algo pase, pero sólo si se cumple una condición, por ejemplo, si queremos jugar algún jueguito de internet, vamos a necesitar que haya internet, en este caso diríamos; "si hay internet, quiero jugar jueguitos", esto mismo le decimos a la computadora cuando usamos un if.
+
+	* Valores booleanos (`true`, `false`); los valores booleanos son valores de verdadero y falso, es decir, no pueden valer otra cosa. Por ejemplo si decimos el helado está derretido, va a ser o verdadero, o falso, no puede ser de otra forma. Lo mismo hace la computadora cuando nos devuelve un valor booleano, nos dice "esto es así, por ende, es true" o "esto no es así, por ende, es false".
+
